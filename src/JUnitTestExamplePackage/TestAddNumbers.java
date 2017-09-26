@@ -10,6 +10,7 @@ public class TestAddNumbers {
 	public void test() {
 		JUnitTesting junit = new JUnitTesting();
 		int result = junit.addNumbers(250,750);
+		
 		assertEquals(1000,result);
 	}
 	}

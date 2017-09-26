@@ -8,3 +8,4 @@ public class JUnitTesting {
 		return(a+b);
 	}
 }
+

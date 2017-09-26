@@ -11,6 +11,7 @@ public class testAddStrings {
 		JUnitTesting junitString = new JUnitTesting();
 		String result = junitString.addStrings("Counter","Strike");
 		assertEquals("CounterStrike",result);
+		
 	}
 
 }
